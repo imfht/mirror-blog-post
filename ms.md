@@ -15,6 +15,8 @@ Windows XP、Windows 7、Windows 8、Windows Server 2008、Windows Server 2003�
 1.win7 win8用户手动安装补丁
 补丁下载地址
 
+## 目前已经关闭校外用户下载
+
 - [win7](https://mirror.sdu.edu.cn/ms17-010/win7/)
 - [win8](https://mirror.sdu.edu.cn/ms17-010/win8.1/)
 - [win10](https://mirror.sdu.edu.cn/ms17-010/win10/)
